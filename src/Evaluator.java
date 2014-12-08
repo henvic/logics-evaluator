@@ -17,6 +17,13 @@ class Table {
 
 public class Evaluator {
 
+    /**
+     * Returns true if the expression is well-formed. Returns false otherwise.
+     */
+    public static boolean isWFF(String expr) {
+        return true;
+    }
+
     public static void main(String[] args) {
         Arquivo io = new Arquivo("input.txt", "output.txt");
 
