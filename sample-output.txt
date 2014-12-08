@@ -1,0 +1,10829 @@
+Expressao 1
+Expressao mal-formada
+
+Expressao 2
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0); (X=0, Y=1)
+
+Expressao 3
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 4
+Expressao bem-formada
+Altura=5
+Sub-expressoes=26
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 5
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 6
+Expressao mal-formada
+
+Expressao 7
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 8
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 9
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+
+
+Expressao 10
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0); (X=0, Y=1)
+
+Expressao 11
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(Z=1)
+
+Expressao 12
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 13
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(Y=0, Z=1)
+
+Expressao 14
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 15
+Expressao bem-formada
+Altura=4
+Sub-expressoes=6
+(X=0)
+
+Expressao 16
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 17
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(X=1)
+
+Expressao 18
+Expressao mal-formada
+
+Expressao 19
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(Y=0); (Y=1)
+
+Expressao 20
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 21
+Expressao mal-formada
+
+Expressao 22
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 23
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 24
+Expressao mal-formada
+
+Expressao 25
+Expressao mal-formada
+
+Expressao 26
+Expressao bem-formada
+Altura=4
+Sub-expressoes=6
+(X=1, Z=1)
+
+Expressao 27
+Expressao mal-formada
+
+Expressao 28
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=1, Y=1)
+
+Expressao 29
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 30
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 31
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1)
+
+Expressao 32
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(X=0, Y=0); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 33
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+
+
+Expressao 34
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 35
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0)
+
+Expressao 36
+Expressao mal-formada
+
+Expressao 37
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+
+
+Expressao 38
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+
+
+Expressao 39
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(Y=1, Z=1)
+
+Expressao 40
+Expressao mal-formada
+
+Expressao 41
+Expressao mal-formada
+
+Expressao 42
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+
+
+Expressao 43
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 44
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Y=1)
+
+Expressao 45
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(Y=0, Z=0)
+
+Expressao 46
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0)
+
+Expressao 47
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 48
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 49
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 50
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=1)
+
+Expressao 51
+Expressao mal-formada
+
+Expressao 52
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+
+
+Expressao 53
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=1, Y=0)
+
+Expressao 54
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+
+
+Expressao 55
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 56
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+
+
+Expressao 57
+Expressao mal-formada
+
+Expressao 58
+Expressao bem-formada
+Altura=2
+Sub-expressoes=5
+
+
+Expressao 59
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 60
+Expressao mal-formada
+
+Expressao 61
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(Y=0, Z=0); (Y=0, Z=1)
+
+Expressao 62
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=1)
+
+Expressao 63
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 64
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 65
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 66
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=1, Y=1, Z=0)
+
+Expressao 67
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 68
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 69
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 70
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 71
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 72
+Expressao mal-formada
+
+Expressao 73
+Expressao mal-formada
+
+Expressao 74
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 75
+Expressao mal-formada
+
+Expressao 76
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+
+
+Expressao 77
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=1, Z=0); (X=1, Z=1)
+
+Expressao 78
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 79
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+
+
+Expressao 80
+Expressao bem-formada
+Altura=2
+Sub-expressoes=5
+(Y=1)
+
+Expressao 81
+Expressao mal-formada
+
+Expressao 82
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=0); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 83
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Y=1)
+
+Expressao 84
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 85
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 86
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 87
+Expressao mal-formada
+
+Expressao 88
+Expressao mal-formada
+
+Expressao 89
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(X=0, Y=0)
+
+Expressao 90
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 91
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 92
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(Y=0, Z=0); (Y=0, Z=1)
+
+Expressao 93
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 94
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=1, Y=1, Z=1)
+
+Expressao 95
+Expressao mal-formada
+
+Expressao 96
+Expressao bem-formada
+Altura=4
+Sub-expressoes=7
+
+
+Expressao 97
+Expressao mal-formada
+
+Expressao 98
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0)
+
+Expressao 99
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 100
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0, Z=0)
+
+Expressao 101
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+
+
+Expressao 102
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 103
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 104
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(Y=0, Z=0)
+
+Expressao 105
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 106
+Expressao bem-formada
+Altura=5
+Sub-expressoes=24
+
+
+Expressao 107
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Z=0); (Z=1)
+
+Expressao 108
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=1)
+
+Expressao 109
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 110
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+
+
+Expressao 111
+Expressao mal-formada
+
+Expressao 112
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 113
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 114
+Expressao mal-formada
+
+Expressao 115
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+(X=1, Y=0, Z=0); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 116
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 117
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 118
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+
+
+Expressao 119
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 120
+Expressao mal-formada
+
+Expressao 121
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 122
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+(Y=1)
+
+Expressao 123
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 124
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 125
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+
+
+Expressao 126
+Expressao mal-formada
+
+Expressao 127
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 128
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 129
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 130
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+
+
+Expressao 131
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 132
+Expressao mal-formada
+
+Expressao 133
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Z=1); (X=1, Z=0)
+
+Expressao 134
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 135
+Expressao bem-formada
+Altura=5
+Sub-expressoes=24
+
+
+Expressao 136
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+
+
+Expressao 137
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 138
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+
+
+Expressao 139
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=1, Y=0); (X=1, Y=1)
+
+Expressao 140
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 141
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+
+
+Expressao 142
+Expressao mal-formada
+
+Expressao 143
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 144
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1)
+
+Expressao 145
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 146
+Expressao mal-formada
+
+Expressao 147
+Expressao mal-formada
+
+Expressao 148
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 149
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=0)
+
+Expressao 150
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 151
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Z=0)
+
+Expressao 152
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 153
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 154
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+
+
+Expressao 155
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0); (X=1)
+
+Expressao 156
+Expressao mal-formada
+
+Expressao 157
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 158
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=1, Y=0); (X=1, Y=1)
+
+Expressao 159
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+(Y=0)
+
+Expressao 160
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 161
+Expressao mal-formada
+
+Expressao 162
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 163
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+
+
+Expressao 164
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 165
+Expressao mal-formada
+
+Expressao 166
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 167
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Y=0)
+
+Expressao 168
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0)
+
+Expressao 169
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 170
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Y=0); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 171
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(Y=0); (Y=1)
+
+Expressao 172
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 173
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 174
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 175
+Expressao mal-formada
+
+Expressao 176
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 177
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 178
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=1, Z=0); (X=1, Z=1)
+
+Expressao 179
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 180
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0)
+
+Expressao 181
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=0)
+
+Expressao 182
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(X=1, Y=1)
+
+Expressao 183
+Expressao mal-formada
+
+Expressao 184
+Expressao bem-formada
+Altura=5
+Sub-expressoes=27
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 185
+Expressao mal-formada
+
+Expressao 186
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 187
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 188
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(Z=0); (Z=1)
+
+Expressao 189
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=0); (Y=1)
+
+Expressao 190
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Y=1, Z=0)
+
+Expressao 191
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 192
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Z=0)
+
+Expressao 193
+Expressao mal-formada
+
+Expressao 194
+Expressao bem-formada
+Altura=5
+Sub-expressoes=24
+
+
+Expressao 195
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 196
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 197
+Expressao mal-formada
+
+Expressao 198
+Expressao mal-formada
+
+Expressao 199
+Expressao bem-formada
+Altura=4
+Sub-expressoes=5
+
+
+Expressao 200
+Expressao mal-formada
+
+Expressao 201
+Expressao mal-formada
+
+Expressao 202
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 203
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(X=0, Z=0)
+
+Expressao 204
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 205
+Expressao mal-formada
+
+Expressao 206
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 207
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+
+
+Expressao 208
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+
+
+Expressao 209
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+
+
+Expressao 210
+Expressao mal-formada
+
+Expressao 211
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=0, Y=0, Z=0)
+
+Expressao 212
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 213
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+
+
+Expressao 214
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 215
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+
+
+Expressao 216
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=0)
+
+Expressao 217
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 218
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 219
+Expressao bem-formada
+Altura=5
+Sub-expressoes=26
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 220
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 221
+Expressao mal-formada
+
+Expressao 222
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 223
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0)
+
+Expressao 224
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 225
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 226
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 227
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 228
+Expressao mal-formada
+
+Expressao 229
+Expressao mal-formada
+
+Expressao 230
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 231
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 232
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 233
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Y=0, Z=1)
+
+Expressao 234
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 235
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 236
+Expressao mal-formada
+
+Expressao 237
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 238
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(X=1)
+
+Expressao 239
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 240
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 241
+Expressao mal-formada
+
+Expressao 242
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=1, Y=1)
+
+Expressao 243
+Expressao bem-formada
+Altura=3
+Sub-expressoes=6
+(X=0)
+
+Expressao 244
+Expressao mal-formada
+
+Expressao 245
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 246
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 247
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 248
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(Y=0, Z=0); (Y=0, Z=1)
+
+Expressao 249
+Expressao mal-formada
+
+Expressao 250
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 251
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=0); (X=1, Y=0, Z=0)
+
+Expressao 252
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 253
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 254
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+
+
+Expressao 255
+Expressao bem-formada
+Altura=4
+Sub-expressoes=5
+(Y=1)
+
+Expressao 256
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+
+
+Expressao 257
+Expressao mal-formada
+
+Expressao 258
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 259
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+
+
+Expressao 260
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 261
+Expressao mal-formada
+
+Expressao 262
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 263
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 264
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 265
+Expressao mal-formada
+
+Expressao 266
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 267
+Expressao mal-formada
+
+Expressao 268
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=1, Z=0); (X=1, Z=1)
+
+Expressao 269
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+
+
+Expressao 270
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 271
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 272
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 273
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 274
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=1)
+
+Expressao 275
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 276
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 277
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(Y=0, Z=0)
+
+Expressao 278
+Expressao mal-formada
+
+Expressao 279
+Expressao mal-formada
+
+Expressao 280
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 281
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(X=0, Y=1)
+
+Expressao 282
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=1, Z=0); (X=1, Z=1)
+
+Expressao 283
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 284
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Y=1)
+
+Expressao 285
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 286
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+(X=1)
+
+Expressao 287
+Expressao mal-formada
+
+Expressao 288
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 289
+Expressao mal-formada
+
+Expressao 290
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Z=1); (X=1, Z=1)
+
+Expressao 291
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 292
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 293
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 294
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 295
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(Y=1)
+
+Expressao 296
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Z=0); (X=1, Z=0)
+
+Expressao 297
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 298
+Expressao mal-formada
+
+Expressao 299
+Expressao mal-formada
+
+Expressao 300
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 301
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 302
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 303
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=1, Y=1)
+
+Expressao 304
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 305
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 306
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0); (X=0, Y=1)
+
+Expressao 307
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 308
+Expressao mal-formada
+
+Expressao 309
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 310
+Expressao bem-formada
+Altura=5
+Sub-expressoes=23
+(X=0, Y=0, Z=1)
+
+Expressao 311
+Expressao mal-formada
+
+Expressao 312
+Expressao mal-formada
+
+Expressao 313
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 314
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+
+
+Expressao 315
+Expressao bem-formada
+Altura=4
+Sub-expressoes=5
+
+
+Expressao 316
+Expressao mal-formada
+
+Expressao 317
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+
+
+Expressao 318
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Z=0)
+
+Expressao 319
+Expressao mal-formada
+
+Expressao 320
+Expressao mal-formada
+
+Expressao 321
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0)
+
+Expressao 322
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=1, Z=1); (X=1, Y=0, Z=1)
+
+Expressao 323
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 324
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 325
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+
+
+Expressao 326
+Expressao mal-formada
+
+Expressao 327
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=1, Y=0); (X=1, Y=1)
+
+Expressao 328
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 329
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+
+
+Expressao 330
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Z=0); (Z=1)
+
+Expressao 331
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 332
+Expressao mal-formada
+
+Expressao 333
+Expressao mal-formada
+
+Expressao 334
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 335
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 336
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 337
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+
+
+Expressao 338
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 339
+Expressao mal-formada
+
+Expressao 340
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0)
+
+Expressao 341
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Z=1); (X=1, Z=1)
+
+Expressao 342
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 343
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 344
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0); (X=1)
+
+Expressao 345
+Expressao mal-formada
+
+Expressao 346
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 347
+Expressao mal-formada
+
+Expressao 348
+Expressao mal-formada
+
+Expressao 349
+Expressao mal-formada
+
+Expressao 350
+Expressao mal-formada
+
+Expressao 351
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 352
+Expressao mal-formada
+
+Expressao 353
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Z=1)
+
+Expressao 354
+Expressao mal-formada
+
+Expressao 355
+Expressao mal-formada
+
+Expressao 356
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 357
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+
+
+Expressao 358
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(Y=0, Z=0)
+
+Expressao 359
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0); (X=1)
+
+Expressao 360
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 361
+Expressao mal-formada
+
+Expressao 362
+Expressao mal-formada
+
+Expressao 363
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1)
+
+Expressao 364
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(Y=0, Z=0); (Y=0, Z=1)
+
+Expressao 365
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 366
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 367
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 368
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+
+
+Expressao 369
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 370
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 371
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0); (X=1)
+
+Expressao 372
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+(X=1)
+
+Expressao 373
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 374
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 375
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0)
+
+Expressao 376
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(Y=0); (Y=1)
+
+Expressao 377
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 378
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+
+
+Expressao 379
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+
+
+Expressao 380
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+
+
+Expressao 381
+Expressao mal-formada
+
+Expressao 382
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 383
+Expressao bem-formada
+Altura=5
+Sub-expressoes=24
+
+
+Expressao 384
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=1); (X=1, Y=1)
+
+Expressao 385
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 386
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=1, Z=1)
+
+Expressao 387
+Expressao bem-formada
+Altura=4
+Sub-expressoes=9
+(X=0, Y=0); (X=0, Y=1)
+
+Expressao 388
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+(Y=0, Z=0); (Y=0, Z=1)
+
+Expressao 389
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 390
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 391
+Expressao mal-formada
+
+Expressao 392
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 393
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 394
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 395
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0)
+
+Expressao 396
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=1, Y=0, Z=0)
+
+Expressao 397
+Expressao bem-formada
+Altura=5
+Sub-expressoes=23
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 398
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+
+
+Expressao 399
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0)
+
+Expressao 400
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 401
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 402
+Expressao bem-formada
+Altura=4
+Sub-expressoes=8
+(X=1)
+
+Expressao 403
+Expressao mal-formada
+
+Expressao 404
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=0, Z=0); (Y=1, Z=0)
+
+Expressao 405
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 406
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 407
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 408
+Expressao mal-formada
+
+Expressao 409
+Expressao mal-formada
+
+Expressao 410
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 411
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 412
+Expressao bem-formada
+Altura=5
+Sub-expressoes=24
+(X=0, Y=1, Z=1); (X=1, Y=0, Z=0)
+
+Expressao 413
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 414
+Expressao bem-formada
+Altura=5
+Sub-expressoes=26
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 415
+Expressao bem-formada
+Altura=2
+Sub-expressoes=5
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 416
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+
+
+Expressao 417
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=1)
+
+Expressao 418
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 419
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=1)
+
+Expressao 420
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 421
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 422
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 423
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0); (X=0, Y=1)
+
+Expressao 424
+Expressao bem-formada
+Altura=5
+Sub-expressoes=27
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 425
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+
+
+Expressao 426
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+
+
+Expressao 427
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+(X=0, Z=0); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 428
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 429
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=1, Y=0, Z=0)
+
+Expressao 430
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 431
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 432
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Z=0); (Z=1)
+
+Expressao 433
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+
+
+Expressao 434
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 435
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=1, Z=0)
+
+Expressao 436
+Expressao mal-formada
+
+Expressao 437
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+
+
+Expressao 438
+Expressao bem-formada
+Altura=5
+Sub-expressoes=23
+
+
+Expressao 439
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+(Z=0)
+
+Expressao 440
+Expressao mal-formada
+
+Expressao 441
+Expressao mal-formada
+
+Expressao 442
+Expressao mal-formada
+
+Expressao 443
+Expressao bem-formada
+Altura=4
+Sub-expressoes=8
+(Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 444
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 445
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0)
+
+Expressao 446
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 447
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 448
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 449
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 450
+Expressao mal-formada
+
+Expressao 451
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 452
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=1, Y=1, Z=1)
+
+Expressao 453
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 454
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 455
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 456
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+
+
+Expressao 457
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=1, Z=1)
+
+Expressao 458
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 459
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 460
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0, Z=0)
+
+Expressao 461
+Expressao mal-formada
+
+Expressao 462
+Expressao mal-formada
+
+Expressao 463
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+
+
+Expressao 464
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 465
+Expressao mal-formada
+
+Expressao 466
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 467
+Expressao mal-formada
+
+Expressao 468
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 469
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=1, Z=0)
+
+Expressao 470
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 471
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=1)
+
+Expressao 472
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 473
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 474
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 475
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 476
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 477
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 478
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 479
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(Y=1, Z=0)
+
+Expressao 480
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0)
+
+Expressao 481
+Expressao bem-formada
+Altura=5
+Sub-expressoes=23
+(X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 482
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Y=1)
+
+Expressao 483
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 484
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+
+
+Expressao 485
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 486
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 487
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 488
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 489
+Expressao bem-formada
+Altura=3
+Sub-expressoes=6
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 490
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Y=1)
+
+Expressao 491
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 492
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=0); (X=1, Y=0, Z=0)
+
+Expressao 493
+Expressao mal-formada
+
+Expressao 494
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 495
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 496
+Expressao mal-formada
+
+Expressao 497
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 498
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+
+
+Expressao 499
+Expressao mal-formada
+
+Expressao 500
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 501
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=1, Z=1)
+
+Expressao 502
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=1, Y=1)
+
+Expressao 503
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=1, Y=1, Z=1)
+
+Expressao 504
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=1, Y=0, Z=0); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 505
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 506
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 507
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 508
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+
+
+Expressao 509
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 510
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 511
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(Y=0, Z=0); (Y=1, Z=0)
+
+Expressao 512
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 513
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 514
+Expressao bem-formada
+Altura=4
+Sub-expressoes=8
+(X=1)
+
+Expressao 515
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(Y=0, Z=0); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 516
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0); (X=1)
+
+Expressao 517
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 518
+Expressao mal-formada
+
+Expressao 519
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 520
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=0, Z=0); (Y=1, Z=1)
+
+Expressao 521
+Expressao mal-formada
+
+Expressao 522
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 523
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 524
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 525
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Z=0)
+
+Expressao 526
+Expressao bem-formada
+Altura=5
+Sub-expressoes=23
+(X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 527
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 528
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+
+
+Expressao 529
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 530
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 531
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Y=1)
+
+Expressao 532
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 533
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 534
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 535
+Expressao mal-formada
+
+Expressao 536
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(X=0, Y=0)
+
+Expressao 537
+Expressao mal-formada
+
+Expressao 538
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=0)
+
+Expressao 539
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 540
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=1, Y=0, Z=0)
+
+Expressao 541
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 542
+Expressao mal-formada
+
+Expressao 543
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 544
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0)
+
+Expressao 545
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 546
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0)
+
+Expressao 547
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0)
+
+Expressao 548
+Expressao mal-formada
+
+Expressao 549
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 550
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 551
+Expressao mal-formada
+
+Expressao 552
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(Z=1)
+
+Expressao 553
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 554
+Expressao mal-formada
+
+Expressao 555
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 556
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 557
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 558
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 559
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 560
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 561
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 562
+Expressao mal-formada
+
+Expressao 563
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+
+
+Expressao 564
+Expressao mal-formada
+
+Expressao 565
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Y=0); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 566
+Expressao mal-formada
+
+Expressao 567
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 568
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=1, Y=0)
+
+Expressao 569
+Expressao mal-formada
+
+Expressao 570
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 571
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+(X=0); (X=1)
+
+Expressao 572
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 573
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Y=1)
+
+Expressao 574
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Y=0)
+
+Expressao 575
+Expressao mal-formada
+
+Expressao 576
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Y=0); (Y=1)
+
+Expressao 577
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+
+
+Expressao 578
+Expressao mal-formada
+
+Expressao 579
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 580
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 581
+Expressao mal-formada
+
+Expressao 582
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=0, Y=0, Z=0)
+
+Expressao 583
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Z=0)
+
+Expressao 584
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 585
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=1, Y=1, Z=1)
+
+Expressao 586
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+
+
+Expressao 587
+Expressao mal-formada
+
+Expressao 588
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 589
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 590
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(X=1, Y=0)
+
+Expressao 591
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 592
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 593
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=1)
+
+Expressao 594
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+
+
+Expressao 595
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+
+
+Expressao 596
+Expressao mal-formada
+
+Expressao 597
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 598
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 599
+Expressao mal-formada
+
+Expressao 600
+Expressao mal-formada
+
+Expressao 601
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 602
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 603
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 604
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 605
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1)
+
+Expressao 606
+Expressao mal-formada
+
+Expressao 607
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=0)
+
+Expressao 608
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(Y=0); (Y=1)
+
+Expressao 609
+Expressao mal-formada
+
+Expressao 610
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 611
+Expressao mal-formada
+
+Expressao 612
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(Y=0, Z=0)
+
+Expressao 613
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(Z=1)
+
+Expressao 614
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 615
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+
+
+Expressao 616
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 617
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+
+
+Expressao 618
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0)
+
+Expressao 619
+Expressao mal-formada
+
+Expressao 620
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 621
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 622
+Expressao mal-formada
+
+Expressao 623
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(X=0, Z=1)
+
+Expressao 624
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 625
+Expressao bem-formada
+Altura=4
+Sub-expressoes=6
+(X=1)
+
+Expressao 626
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+
+
+Expressao 627
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 628
+Expressao mal-formada
+
+Expressao 629
+Expressao mal-formada
+
+Expressao 630
+Expressao mal-formada
+
+Expressao 631
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 632
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+
+
+Expressao 633
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(Y=1)
+
+Expressao 634
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 635
+Expressao mal-formada
+
+Expressao 636
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=1, Y=0)
+
+Expressao 637
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+(X=1, Y=0, Z=0)
+
+Expressao 638
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=0, Y=1, Z=1)
+
+Expressao 639
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Z=1)
+
+Expressao 640
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 641
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+
+
+Expressao 642
+Expressao mal-formada
+
+Expressao 643
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=1); (X=1, Y=1)
+
+Expressao 644
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(X=0, Y=0)
+
+Expressao 645
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 646
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 647
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 648
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Z=0)
+
+Expressao 649
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=1, Y=0, Z=1)
+
+Expressao 650
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+
+
+Expressao 651
+Expressao mal-formada
+
+Expressao 652
+Expressao mal-formada
+
+Expressao 653
+Expressao mal-formada
+
+Expressao 654
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 655
+Expressao mal-formada
+
+Expressao 656
+Expressao mal-formada
+
+Expressao 657
+Expressao mal-formada
+
+Expressao 658
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(X=1, Y=1)
+
+Expressao 659
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 660
+Expressao mal-formada
+
+Expressao 661
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(Y=0, Z=0); (Y=1, Z=0)
+
+Expressao 662
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0, Z=0)
+
+Expressao 663
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 664
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0)
+
+Expressao 665
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0, Z=0)
+
+Expressao 666
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 667
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0)
+
+Expressao 668
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 669
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+(Z=0)
+
+Expressao 670
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 671
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 672
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 673
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 674
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Z=1)
+
+Expressao 675
+Expressao mal-formada
+
+Expressao 676
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 677
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 678
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+
+
+Expressao 679
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(Y=0, Z=0)
+
+Expressao 680
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 681
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 682
+Expressao bem-formada
+Altura=4
+Sub-expressoes=7
+(Y=0)
+
+Expressao 683
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+
+
+Expressao 684
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+
+
+Expressao 685
+Expressao bem-formada
+Altura=5
+Sub-expressoes=23
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 686
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 687
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 688
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 689
+Expressao mal-formada
+
+Expressao 690
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0)
+
+Expressao 691
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(Y=0); (Y=1)
+
+Expressao 692
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+
+
+Expressao 693
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 694
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(Z=0)
+
+Expressao 695
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+
+
+Expressao 696
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 697
+Expressao mal-formada
+
+Expressao 698
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 699
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 700
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=1, Y=1)
+
+Expressao 701
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 702
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Z=0); (Z=1)
+
+Expressao 703
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=1, Y=1)
+
+Expressao 704
+Expressao mal-formada
+
+Expressao 705
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 706
+Expressao mal-formada
+
+Expressao 707
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 708
+Expressao mal-formada
+
+Expressao 709
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 710
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+(Z=0)
+
+Expressao 711
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+(X=1)
+
+Expressao 712
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 713
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Y=0, Z=0); (Y=0, Z=1)
+
+Expressao 714
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 715
+Expressao mal-formada
+
+Expressao 716
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 717
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Y=0)
+
+Expressao 718
+Expressao mal-formada
+
+Expressao 719
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 720
+Expressao mal-formada
+
+Expressao 721
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 722
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0)
+
+Expressao 723
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 724
+Expressao bem-formada
+Altura=4
+Sub-expressoes=5
+
+
+Expressao 725
+Expressao mal-formada
+
+Expressao 726
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Z=0); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 727
+Expressao mal-formada
+
+Expressao 728
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 729
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 730
+Expressao mal-formada
+
+Expressao 731
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Y=0, Z=0); (Y=0, Z=1)
+
+Expressao 732
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 733
+Expressao mal-formada
+
+Expressao 734
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0); (X=0, Y=1)
+
+Expressao 735
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 736
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 737
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=1)
+
+Expressao 738
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1)
+
+Expressao 739
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 740
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 741
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 742
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 743
+Expressao bem-formada
+Altura=5
+Sub-expressoes=25
+
+
+Expressao 744
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 745
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 746
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0); (X=1)
+
+Expressao 747
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+
+
+Expressao 748
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 749
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(X=0)
+
+Expressao 750
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=1, Z=1)
+
+Expressao 751
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 752
+Expressao mal-formada
+
+Expressao 753
+Expressao mal-formada
+
+Expressao 754
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 755
+Expressao mal-formada
+
+Expressao 756
+Expressao mal-formada
+
+Expressao 757
+Expressao mal-formada
+
+Expressao 758
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 759
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=1, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 760
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0); (X=0, Y=1)
+
+Expressao 761
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+
+
+Expressao 762
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 763
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(X=0)
+
+Expressao 764
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+
+
+Expressao 765
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 766
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0)
+
+Expressao 767
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 768
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 769
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 770
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 771
+Expressao mal-formada
+
+Expressao 772
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 773
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+
+
+Expressao 774
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0); (X=1, Y=0)
+
+Expressao 775
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(Y=0)
+
+Expressao 776
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1)
+
+Expressao 777
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 778
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+
+
+Expressao 779
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Y=1)
+
+Expressao 780
+Expressao mal-formada
+
+Expressao 781
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 782
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+
+
+Expressao 783
+Expressao mal-formada
+
+Expressao 784
+Expressao mal-formada
+
+Expressao 785
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 786
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 787
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(Y=1, Z=1)
+
+Expressao 788
+Expressao mal-formada
+
+Expressao 789
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 790
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 791
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 792
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0); (X=1, Y=0)
+
+Expressao 793
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 794
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+
+
+Expressao 795
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0)
+
+Expressao 796
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 797
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(X=0); (X=1)
+
+Expressao 798
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 799
+Expressao mal-formada
+
+Expressao 800
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=1, Z=0)
+
+Expressao 801
+Expressao bem-formada
+Altura=5
+Sub-expressoes=27
+(X=0, Y=0, Z=1); (X=1, Y=0, Z=1)
+
+Expressao 802
+Expressao mal-formada
+
+Expressao 803
+Expressao mal-formada
+
+Expressao 804
+Expressao mal-formada
+
+Expressao 805
+Expressao mal-formada
+
+Expressao 806
+Expressao mal-formada
+
+Expressao 807
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+
+
+Expressao 808
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Y=0); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 809
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 810
+Expressao mal-formada
+
+Expressao 811
+Expressao bem-formada
+Altura=4
+Sub-expressoes=7
+(Y=0, Z=0)
+
+Expressao 812
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 813
+Expressao mal-formada
+
+Expressao 814
+Expressao mal-formada
+
+Expressao 815
+Expressao mal-formada
+
+Expressao 816
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 817
+Expressao mal-formada
+
+Expressao 818
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+(X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 819
+Expressao mal-formada
+
+Expressao 820
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(X=0, Y=0)
+
+Expressao 821
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=1, Z=0)
+
+Expressao 822
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 823
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+
+
+Expressao 824
+Expressao mal-formada
+
+Expressao 825
+Expressao mal-formada
+
+Expressao 826
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 827
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 828
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 829
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 830
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+
+
+Expressao 831
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+(X=0, Z=0); (X=0, Z=1)
+
+Expressao 832
+Expressao mal-formada
+
+Expressao 833
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 834
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 835
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 836
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 837
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(X=1, Y=1)
+
+Expressao 838
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 839
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 840
+Expressao mal-formada
+
+Expressao 841
+Expressao mal-formada
+
+Expressao 842
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 843
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=0)
+
+Expressao 844
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 845
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0, Z=1); (X=1, Y=0, Z=1)
+
+Expressao 846
+Expressao bem-formada
+Altura=4
+Sub-expressoes=6
+(Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 847
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Z=1); (X=1, Z=1)
+
+Expressao 848
+Expressao mal-formada
+
+Expressao 849
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 850
+Expressao bem-formada
+Altura=5
+Sub-expressoes=25
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 851
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(Y=1, Z=0)
+
+Expressao 852
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 853
+Expressao mal-formada
+
+Expressao 854
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 855
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=1, Z=0)
+
+Expressao 856
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 857
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Z=1)
+
+Expressao 858
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+
+
+Expressao 859
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 860
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 861
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=1, Z=0)
+
+Expressao 862
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 863
+Expressao mal-formada
+
+Expressao 864
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 865
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 866
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=1, Z=0); (X=1, Z=1)
+
+Expressao 867
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 868
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+
+
+Expressao 869
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=1, Z=1)
+
+Expressao 870
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 871
+Expressao mal-formada
+
+Expressao 872
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=1, Y=1, Z=0)
+
+Expressao 873
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 874
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 875
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+
+
+Expressao 876
+Expressao mal-formada
+
+Expressao 877
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 878
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 879
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+
+
+Expressao 880
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 881
+Expressao mal-formada
+
+Expressao 882
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0)
+
+Expressao 883
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Y=0, Z=0); (Y=0, Z=1)
+
+Expressao 884
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 885
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 886
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+
+
+Expressao 887
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+
+
+Expressao 888
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+
+
+Expressao 889
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=0, Z=0)
+
+Expressao 890
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=0)
+
+Expressao 891
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 892
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+
+
+Expressao 893
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 894
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 895
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1)
+
+Expressao 896
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 897
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 898
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+
+
+Expressao 899
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+
+
+Expressao 900
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 901
+Expressao mal-formada
+
+Expressao 902
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+
+
+Expressao 903
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Z=0)
+
+Expressao 904
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Y=0)
+
+Expressao 905
+Expressao mal-formada
+
+Expressao 906
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 907
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 908
+Expressao mal-formada
+
+Expressao 909
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 910
+Expressao mal-formada
+
+Expressao 911
+Expressao mal-formada
+
+Expressao 912
+Expressao bem-formada
+Altura=5
+Sub-expressoes=26
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 913
+Expressao bem-formada
+Altura=5
+Sub-expressoes=29
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 914
+Expressao mal-formada
+
+Expressao 915
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=0, Z=0); (X=1, Z=0)
+
+Expressao 916
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 917
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Z=1)
+
+Expressao 918
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 919
+Expressao mal-formada
+
+Expressao 920
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 921
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0); (X=0, Y=1)
+
+Expressao 922
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+
+
+Expressao 923
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+
+
+Expressao 924
+Expressao mal-formada
+
+Expressao 925
+Expressao mal-formada
+
+Expressao 926
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=1, Y=0, Z=0)
+
+Expressao 927
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+
+
+Expressao 928
+Expressao mal-formada
+
+Expressao 929
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 930
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=0)
+
+Expressao 931
+Expressao mal-formada
+
+Expressao 932
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 933
+Expressao mal-formada
+
+Expressao 934
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 935
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+
+
+Expressao 936
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 937
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 938
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 939
+Expressao bem-formada
+Altura=2
+Sub-expressoes=6
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0)
+
+Expressao 940
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 941
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 942
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Z=0); (Z=1)
+
+Expressao 943
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 944
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 945
+Expressao bem-formada
+Altura=5
+Sub-expressoes=23
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 946
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 947
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(Y=1, Z=0)
+
+Expressao 948
+Expressao mal-formada
+
+Expressao 949
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+
+
+Expressao 950
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=1)
+
+Expressao 951
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(Y=0, Z=1)
+
+Expressao 952
+Expressao mal-formada
+
+Expressao 953
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+
+
+Expressao 954
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Z=1); (X=1, Z=1)
+
+Expressao 955
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 956
+Expressao mal-formada
+
+Expressao 957
+Expressao mal-formada
+
+Expressao 958
+Expressao mal-formada
+
+Expressao 959
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+
+
+Expressao 960
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 961
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 962
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 963
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Z=0); (X=0, Z=1)
+
+Expressao 964
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+
+
+Expressao 965
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 966
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 967
+Expressao mal-formada
+
+Expressao 968
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 969
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 970
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 971
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0)
+
+Expressao 972
+Expressao bem-formada
+Altura=4
+Sub-expressoes=9
+
+
+Expressao 973
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Y=0)
+
+Expressao 974
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Z=0)
+
+Expressao 975
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 976
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 977
+Expressao mal-formada
+
+Expressao 978
+Expressao mal-formada
+
+Expressao 979
+Expressao mal-formada
+
+Expressao 980
+Expressao mal-formada
+
+Expressao 981
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 982
+Expressao mal-formada
+
+Expressao 983
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(Z=1)
+
+Expressao 984
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 985
+Expressao mal-formada
+
+Expressao 986
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 987
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 988
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 989
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1)
+
+Expressao 990
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 991
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 992
+Expressao mal-formada
+
+Expressao 993
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+
+
+Expressao 994
+Expressao mal-formada
+
+Expressao 995
+Expressao mal-formada
+
+Expressao 996
+Expressao mal-formada
+
+Expressao 997
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Z=0); (Z=1)
+
+Expressao 998
+Expressao bem-formada
+Altura=4
+Sub-expressoes=5
+(Y=1)
+
+Expressao 999
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1000
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=1)
+
+Expressao 1001
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+
+
+Expressao 1002
+Expressao mal-formada
+
+Expressao 1003
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=1)
+
+Expressao 1004
+Expressao bem-formada
+Altura=5
+Sub-expressoes=24
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1005
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1006
+Expressao bem-formada
+Altura=5
+Sub-expressoes=28
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1007
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+
+
+Expressao 1008
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1009
+Expressao mal-formada
+
+Expressao 1010
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(Y=1)
+
+Expressao 1011
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1012
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=1, Z=0); (X=1, Z=1)
+
+Expressao 1013
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1014
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+
+
+Expressao 1015
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1016
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 1017
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(X=0, Z=0)
+
+Expressao 1018
+Expressao mal-formada
+
+Expressao 1019
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 1020
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1021
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 1022
+Expressao mal-formada
+
+Expressao 1023
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 1024
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+
+
+Expressao 1025
+Expressao mal-formada
+
+Expressao 1026
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+(X=1)
+
+Expressao 1027
+Expressao mal-formada
+
+Expressao 1028
+Expressao mal-formada
+
+Expressao 1029
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+
+
+Expressao 1030
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1031
+Expressao mal-formada
+
+Expressao 1032
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 1033
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=1)
+
+Expressao 1034
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0)
+
+Expressao 1035
+Expressao mal-formada
+
+Expressao 1036
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1037
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+
+
+Expressao 1038
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 1039
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+
+
+Expressao 1040
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1041
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+
+
+Expressao 1042
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1043
+Expressao mal-formada
+
+Expressao 1044
+Expressao mal-formada
+
+Expressao 1045
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0, Z=0)
+
+Expressao 1046
+Expressao mal-formada
+
+Expressao 1047
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1048
+Expressao mal-formada
+
+Expressao 1049
+Expressao bem-formada
+Altura=5
+Sub-expressoes=25
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 1050
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+
+
+Expressao 1051
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 1052
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1053
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+
+
+Expressao 1054
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+
+
+Expressao 1055
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=1, Y=1)
+
+Expressao 1056
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1057
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+
+
+Expressao 1058
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1059
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+
+
+Expressao 1060
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1061
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 1062
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1063
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1064
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+
+
+Expressao 1065
+Expressao mal-formada
+
+Expressao 1066
+Expressao mal-formada
+
+Expressao 1067
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=1, Y=0, Z=0)
+
+Expressao 1068
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=0, Z=0); (Y=0, Z=1)
+
+Expressao 1069
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=0); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1070
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 1071
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=1, Z=0); (X=1, Z=1)
+
+Expressao 1072
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1073
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(Y=0)
+
+Expressao 1074
+Expressao mal-formada
+
+Expressao 1075
+Expressao mal-formada
+
+Expressao 1076
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 1077
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 1078
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0)
+
+Expressao 1079
+Expressao bem-formada
+Altura=5
+Sub-expressoes=23
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1080
+Expressao mal-formada
+
+Expressao 1081
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 1082
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 1083
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1084
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 1085
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Y=0); (Y=1)
+
+Expressao 1086
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+
+
+Expressao 1087
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 1088
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0); (X=1)
+
+Expressao 1089
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1090
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+
+
+Expressao 1091
+Expressao mal-formada
+
+Expressao 1092
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=1, Z=0)
+
+Expressao 1093
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1094
+Expressao mal-formada
+
+Expressao 1095
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0); (X=0, Y=1)
+
+Expressao 1096
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1097
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+(Z=1)
+
+Expressao 1098
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1099
+Expressao mal-formada
+
+Expressao 1100
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 1101
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+
+
+Expressao 1102
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+
+
+Expressao 1103
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(Y=0)
+
+Expressao 1104
+Expressao bem-formada
+Altura=5
+Sub-expressoes=25
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1105
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(Y=1, Z=1)
+
+Expressao 1106
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(Y=1, Z=1)
+
+Expressao 1107
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=1, Z=0); (X=1, Z=1)
+
+Expressao 1108
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=1, Y=1)
+
+Expressao 1109
+Expressao mal-formada
+
+Expressao 1110
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(Y=0, Z=1)
+
+Expressao 1111
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1112
+Expressao mal-formada
+
+Expressao 1113
+Expressao bem-formada
+Altura=5
+Sub-expressoes=23
+(X=0, Y=0, Z=0)
+
+Expressao 1114
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Z=1)
+
+Expressao 1115
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+
+
+Expressao 1116
+Expressao mal-formada
+
+Expressao 1117
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(Y=0); (Y=1)
+
+Expressao 1118
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1119
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1120
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+
+
+Expressao 1121
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=1, Y=0); (X=1, Y=1)
+
+Expressao 1122
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Y=1)
+
+Expressao 1123
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Z=1); (X=1, Z=1)
+
+Expressao 1124
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=0)
+
+Expressao 1125
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1126
+Expressao mal-formada
+
+Expressao 1127
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+
+
+Expressao 1128
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1129
+Expressao mal-formada
+
+Expressao 1130
+Expressao mal-formada
+
+Expressao 1131
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=1, Y=0, Z=0)
+
+Expressao 1132
+Expressao mal-formada
+
+Expressao 1133
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0, Z=0)
+
+Expressao 1134
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=1); (X=1, Y=1)
+
+Expressao 1135
+Expressao mal-formada
+
+Expressao 1136
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+
+
+Expressao 1137
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1138
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+
+
+Expressao 1139
+Expressao mal-formada
+
+Expressao 1140
+Expressao bem-formada
+Altura=4
+Sub-expressoes=5
+(Z=0)
+
+Expressao 1141
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1142
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=0, Z=0); (Y=1, Z=0)
+
+Expressao 1143
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1144
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1145
+Expressao mal-formada
+
+Expressao 1146
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1147
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0, Z=1)
+
+Expressao 1148
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1149
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1150
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=1)
+
+Expressao 1151
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Z=1)
+
+Expressao 1152
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1153
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1154
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Z=0); (X=1, Z=0)
+
+Expressao 1155
+Expressao mal-formada
+
+Expressao 1156
+Expressao mal-formada
+
+Expressao 1157
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 1158
+Expressao mal-formada
+
+Expressao 1159
+Expressao bem-formada
+Altura=2
+Sub-expressoes=5
+(Z=0); (Z=1)
+
+Expressao 1160
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+(Y=0); (Y=1)
+
+Expressao 1161
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 1162
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+
+
+Expressao 1163
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+
+
+Expressao 1164
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1165
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1166
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(X=0)
+
+Expressao 1167
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=1, Y=1)
+
+Expressao 1168
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(X=0, Y=0)
+
+Expressao 1169
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 1170
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+
+
+Expressao 1171
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1172
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0, Z=0); (X=1, Z=0)
+
+Expressao 1173
+Expressao mal-formada
+
+Expressao 1174
+Expressao mal-formada
+
+Expressao 1175
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0)
+
+Expressao 1176
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1177
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1178
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1179
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Z=0); (Z=1)
+
+Expressao 1180
+Expressao mal-formada
+
+Expressao 1181
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 1182
+Expressao bem-formada
+Altura=3
+Sub-expressoes=7
+(X=1)
+
+Expressao 1183
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(Y=0, Z=1)
+
+Expressao 1184
+Expressao mal-formada
+
+Expressao 1185
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1186
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1187
+Expressao mal-formada
+
+Expressao 1188
+Expressao mal-formada
+
+Expressao 1189
+Expressao mal-formada
+
+Expressao 1190
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+(Z=1)
+
+Expressao 1191
+Expressao mal-formada
+
+Expressao 1192
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0, Z=0); (X=1, Y=0, Z=0)
+
+Expressao 1193
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 1194
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(Y=1, Z=1)
+
+Expressao 1195
+Expressao mal-formada
+
+Expressao 1196
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1197
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(Y=0, Z=0); (Y=1, Z=0)
+
+Expressao 1198
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=1); (X=1, Y=0, Z=1)
+
+Expressao 1199
+Expressao mal-formada
+
+Expressao 1200
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1201
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Y=1)
+
+Expressao 1202
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1203
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+(Y=0, Z=1)
+
+Expressao 1204
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=1, Y=1, Z=0)
+
+Expressao 1205
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+(X=0, Y=0); (X=0, Y=1)
+
+Expressao 1206
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1207
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Y=1); (X=1, Y=1)
+
+Expressao 1208
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+
+
+Expressao 1209
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1210
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 1211
+Expressao mal-formada
+
+Expressao 1212
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1213
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(Z=0); (Z=1)
+
+Expressao 1214
+Expressao bem-formada
+Altura=5
+Sub-expressoes=25
+
+
+Expressao 1215
+Expressao bem-formada
+Altura=3
+Sub-expressoes=6
+(X=0, Z=0); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 1216
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1217
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1218
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 1219
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1220
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1221
+Expressao mal-formada
+
+Expressao 1222
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=1, Y=1)
+
+Expressao 1223
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+
+
+Expressao 1224
+Expressao mal-formada
+
+Expressao 1225
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1226
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1227
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1228
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(Y=0, Z=0); (Y=0, Z=1)
+
+Expressao 1229
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0); (X=1, Y=0)
+
+Expressao 1230
+Expressao mal-formada
+
+Expressao 1231
+Expressao mal-formada
+
+Expressao 1232
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0); (X=1)
+
+Expressao 1233
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1234
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 1235
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1236
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=0); (Z=1)
+
+Expressao 1237
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1238
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1239
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(X=0, Z=0)
+
+Expressao 1240
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1241
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Z=0)
+
+Expressao 1242
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 1243
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 1244
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1245
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(X=1)
+
+Expressao 1246
+Expressao mal-formada
+
+Expressao 1247
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=1, Z=0)
+
+Expressao 1248
+Expressao bem-formada
+Altura=4
+Sub-expressoes=5
+(X=1)
+
+Expressao 1249
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+
+
+Expressao 1250
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1251
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Z=0)
+
+Expressao 1252
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1253
+Expressao mal-formada
+
+Expressao 1254
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1255
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+
+
+Expressao 1256
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+
+
+Expressao 1257
+Expressao mal-formada
+
+Expressao 1258
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Z=1); (X=1, Z=1)
+
+Expressao 1259
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=0)
+
+Expressao 1260
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Z=0); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 1261
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1262
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+
+
+Expressao 1263
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=1)
+
+Expressao 1264
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=1, Z=0); (X=1, Z=1)
+
+Expressao 1265
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1266
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 1267
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(Y=0, Z=1)
+
+Expressao 1268
+Expressao mal-formada
+
+Expressao 1269
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(X=0, Y=0)
+
+Expressao 1270
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0)
+
+Expressao 1271
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1272
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1273
+Expressao mal-formada
+
+Expressao 1274
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Y=0)
+
+Expressao 1275
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1276
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+
+
+Expressao 1277
+Expressao bem-formada
+Altura=5
+Sub-expressoes=23
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 1278
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1279
+Expressao mal-formada
+
+Expressao 1280
+Expressao mal-formada
+
+Expressao 1281
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+
+
+Expressao 1282
+Expressao mal-formada
+
+Expressao 1283
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1284
+Expressao mal-formada
+
+Expressao 1285
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1286
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(Y=0, Z=0); (Y=1, Z=0)
+
+Expressao 1287
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Y=1, Z=0)
+
+Expressao 1288
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=1)
+
+Expressao 1289
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Y=0)
+
+Expressao 1290
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1291
+Expressao mal-formada
+
+Expressao 1292
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+
+
+Expressao 1293
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1294
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+
+
+Expressao 1295
+Expressao mal-formada
+
+Expressao 1296
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0); (X=1)
+
+Expressao 1297
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(Y=1)
+
+Expressao 1298
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=0)
+
+Expressao 1299
+Expressao bem-formada
+Altura=5
+Sub-expressoes=25
+
+
+Expressao 1300
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1301
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+
+
+Expressao 1302
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1303
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1304
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1305
+Expressao mal-formada
+
+Expressao 1306
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=1, Y=0)
+
+Expressao 1307
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1308
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+
+
+Expressao 1309
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Y=0)
+
+Expressao 1310
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1311
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0)
+
+Expressao 1312
+Expressao mal-formada
+
+Expressao 1313
+Expressao mal-formada
+
+Expressao 1314
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1315
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+
+
+Expressao 1316
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1317
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=0); (Y=1)
+
+Expressao 1318
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+
+
+Expressao 1319
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(X=0)
+
+Expressao 1320
+Expressao mal-formada
+
+Expressao 1321
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(Y=0, Z=0)
+
+Expressao 1322
+Expressao mal-formada
+
+Expressao 1323
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 1324
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1325
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+(Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 1326
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1327
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+
+
+Expressao 1328
+Expressao mal-formada
+
+Expressao 1329
+Expressao mal-formada
+
+Expressao 1330
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1331
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=0)
+
+Expressao 1332
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1333
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+
+
+Expressao 1334
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 1335
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 1336
+Expressao mal-formada
+
+Expressao 1337
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1338
+Expressao mal-formada
+
+Expressao 1339
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(X=1)
+
+Expressao 1340
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1341
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1342
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1343
+Expressao bem-formada
+Altura=2
+Sub-expressoes=5
+(X=0, Y=1); (X=1, Y=1)
+
+Expressao 1344
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1345
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Z=1)
+
+Expressao 1346
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Z=1)
+
+Expressao 1347
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+
+
+Expressao 1348
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(X=0)
+
+Expressao 1349
+Expressao mal-formada
+
+Expressao 1350
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1351
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(Y=0, Z=1)
+
+Expressao 1352
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1353
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1354
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1355
+Expressao mal-formada
+
+Expressao 1356
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1357
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1358
+Expressao mal-formada
+
+Expressao 1359
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1360
+Expressao bem-formada
+Altura=4
+Sub-expressoes=6
+(X=0); (X=1)
+
+Expressao 1361
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1362
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+
+
+Expressao 1363
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(Y=1)
+
+Expressao 1364
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+
+
+Expressao 1365
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1366
+Expressao mal-formada
+
+Expressao 1367
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 1368
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=1)
+
+Expressao 1369
+Expressao mal-formada
+
+Expressao 1370
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1371
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+(Z=1)
+
+Expressao 1372
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1373
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1374
+Expressao mal-formada
+
+Expressao 1375
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+
+
+Expressao 1376
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+
+
+Expressao 1377
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1378
+Expressao mal-formada
+
+Expressao 1379
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=1)
+
+Expressao 1380
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1381
+Expressao mal-formada
+
+Expressao 1382
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+
+
+Expressao 1383
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1384
+Expressao mal-formada
+
+Expressao 1385
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1386
+Expressao mal-formada
+
+Expressao 1387
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+
+
+Expressao 1388
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1389
+Expressao bem-formada
+Altura=3
+Sub-expressoes=6
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 1390
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1391
+Expressao mal-formada
+
+Expressao 1392
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 1393
+Expressao bem-formada
+Altura=5
+Sub-expressoes=23
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1394
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=1, Z=0); (X=1, Z=1)
+
+Expressao 1395
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+
+
+Expressao 1396
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1397
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+(X=0, Y=0); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1398
+Expressao mal-formada
+
+Expressao 1399
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Y=0, Z=0); (Y=1, Z=0)
+
+Expressao 1400
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1401
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=1, Z=0); (X=1, Z=1)
+
+Expressao 1402
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 1403
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0)
+
+Expressao 1404
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+
+
+Expressao 1405
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1406
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 1407
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1408
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1409
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+
+
+Expressao 1410
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1411
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+
+
+Expressao 1412
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+
+
+Expressao 1413
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 1414
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 1415
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=1, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1416
+Expressao bem-formada
+Altura=3
+Sub-expressoes=6
+(X=0, Y=0); (X=1, Y=0)
+
+Expressao 1417
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1418
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=1, Z=0)
+
+Expressao 1419
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1420
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1421
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1422
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 1423
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=1)
+
+Expressao 1424
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1425
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Z=0); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 1426
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0)
+
+Expressao 1427
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1428
+Expressao mal-formada
+
+Expressao 1429
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+
+
+Expressao 1430
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+
+
+Expressao 1431
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1432
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=1, Z=1)
+
+Expressao 1433
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+
+
+Expressao 1434
+Expressao mal-formada
+
+Expressao 1435
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1436
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=0)
+
+Expressao 1437
+Expressao bem-formada
+Altura=5
+Sub-expressoes=24
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0)
+
+Expressao 1438
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0)
+
+Expressao 1439
+Expressao mal-formada
+
+Expressao 1440
+Expressao mal-formada
+
+Expressao 1441
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(Z=0); (Z=1)
+
+Expressao 1442
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1443
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=1, Y=1, Z=0)
+
+Expressao 1444
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0); (X=1)
+
+Expressao 1445
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+
+
+Expressao 1446
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1447
+Expressao mal-formada
+
+Expressao 1448
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 1449
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1450
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 1451
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+
+
+Expressao 1452
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Z=0); (X=1, Z=0)
+
+Expressao 1453
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+
+
+Expressao 1454
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(Y=0, Z=0)
+
+Expressao 1455
+Expressao mal-formada
+
+Expressao 1456
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1457
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(Y=0, Z=0); (Y=1, Z=0)
+
+Expressao 1458
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 1459
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+
+
+Expressao 1460
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1461
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1462
+Expressao bem-formada
+Altura=4
+Sub-expressoes=10
+(X=0, Y=0, Z=1); (X=1, Y=0, Z=1)
+
+Expressao 1463
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=1, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 1464
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1465
+Expressao mal-formada
+
+Expressao 1466
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+
+
+Expressao 1467
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0); (X=1)
+
+Expressao 1468
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=1, Y=0)
+
+Expressao 1469
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 1470
+Expressao mal-formada
+
+Expressao 1471
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1472
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1473
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+
+
+Expressao 1474
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+
+
+Expressao 1475
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 1476
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1477
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1478
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1479
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1480
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0)
+
+Expressao 1481
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1482
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 1483
+Expressao mal-formada
+
+Expressao 1484
+Expressao mal-formada
+
+Expressao 1485
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1486
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 1487
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Z=1)
+
+Expressao 1488
+Expressao mal-formada
+
+Expressao 1489
+Expressao bem-formada
+Altura=5
+Sub-expressoes=23
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1490
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1491
+Expressao bem-formada
+Altura=4
+Sub-expressoes=7
+(X=0, Z=1); (X=1, Z=1)
+
+Expressao 1492
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+
+
+Expressao 1493
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 1494
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=0)
+
+Expressao 1495
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(X=0); (X=1)
+
+Expressao 1496
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1497
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+
+
+Expressao 1498
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+
+
+Expressao 1499
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 1500
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Y=0, Z=0)
+
+Expressao 1501
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Y=0, Z=0); (Y=1, Z=0)
+
+Expressao 1502
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1503
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=0)
+
+Expressao 1504
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=1, Z=0); (X=1, Z=1)
+
+Expressao 1505
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1506
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 1507
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 1508
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1509
+Expressao mal-formada
+
+Expressao 1510
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0)
+
+Expressao 1511
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(X=1, Z=1)
+
+Expressao 1512
+Expressao bem-formada
+Altura=4
+Sub-expressoes=6
+(Y=1, Z=1)
+
+Expressao 1513
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1514
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1515
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1516
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+
+
+Expressao 1517
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 1518
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=0, Z=0); (X=1, Y=0, Z=0)
+
+Expressao 1519
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+
+
+Expressao 1520
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1521
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+
+
+Expressao 1522
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=1, Z=0); (X=1, Z=1)
+
+Expressao 1523
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+
+
+Expressao 1524
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+(X=0, Z=1)
+
+Expressao 1525
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+
+
+Expressao 1526
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+
+
+Expressao 1527
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+
+
+Expressao 1528
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 1529
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+
+
+Expressao 1530
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1531
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+(Y=0); (Y=1)
+
+Expressao 1532
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1533
+Expressao mal-formada
+
+Expressao 1534
+Expressao bem-formada
+Altura=4
+Sub-expressoes=8
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0)
+
+Expressao 1535
+Expressao mal-formada
+
+Expressao 1536
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+
+
+Expressao 1537
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Z=0)
+
+Expressao 1538
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Z=0)
+
+Expressao 1539
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+
+
+Expressao 1540
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 1541
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1542
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=1, Z=1)
+
+Expressao 1543
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(X=0)
+
+Expressao 1544
+Expressao mal-formada
+
+Expressao 1545
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1546
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=1)
+
+Expressao 1547
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=1)
+
+Expressao 1548
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1549
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1550
+Expressao mal-formada
+
+Expressao 1551
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0, Z=1)
+
+Expressao 1552
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1553
+Expressao bem-formada
+Altura=4
+Sub-expressoes=8
+(X=0, Y=0, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1554
+Expressao mal-formada
+
+Expressao 1555
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1556
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Y=0)
+
+Expressao 1557
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1558
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+
+
+Expressao 1559
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1560
+Expressao bem-formada
+Altura=5
+Sub-expressoes=24
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1561
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(Y=1, Z=0)
+
+Expressao 1562
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=1, Z=0)
+
+Expressao 1563
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Z=0); (X=1, Z=0)
+
+Expressao 1564
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+
+
+Expressao 1565
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=1)
+
+Expressao 1566
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 1567
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0); (X=1, Y=0)
+
+Expressao 1568
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=1, Y=1, Z=1)
+
+Expressao 1569
+Expressao mal-formada
+
+Expressao 1570
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Z=1); (X=1, Z=1)
+
+Expressao 1571
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+
+
+Expressao 1572
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Y=0); (Y=1)
+
+Expressao 1573
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+
+
+Expressao 1574
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1575
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 1576
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(X=0, Y=0); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1577
+Expressao mal-formada
+
+Expressao 1578
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1579
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1580
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1581
+Expressao mal-formada
+
+Expressao 1582
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 1583
+Expressao mal-formada
+
+Expressao 1584
+Expressao bem-formada
+Altura=5
+Sub-expressoes=24
+(X=1, Y=1, Z=0)
+
+Expressao 1585
+Expressao mal-formada
+
+Expressao 1586
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=1)
+
+Expressao 1587
+Expressao mal-formada
+
+Expressao 1588
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1589
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 1590
+Expressao mal-formada
+
+Expressao 1591
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1592
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1593
+Expressao bem-formada
+Altura=5
+Sub-expressoes=21
+
+
+Expressao 1594
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(Y=1)
+
+Expressao 1595
+Expressao mal-formada
+
+Expressao 1596
+Expressao mal-formada
+
+Expressao 1597
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1598
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+(Z=1)
+
+Expressao 1599
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0)
+
+Expressao 1600
+Expressao mal-formada
+
+Expressao 1601
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1602
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0)
+
+Expressao 1603
+Expressao mal-formada
+
+Expressao 1604
+Expressao mal-formada
+
+Expressao 1605
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=1); (X=1, Y=1)
+
+Expressao 1606
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=1, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 1607
+Expressao mal-formada
+
+Expressao 1608
+Expressao bem-formada
+Altura=5
+Sub-expressoes=24
+
+
+Expressao 1609
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(Z=0); (Z=1)
+
+Expressao 1610
+Expressao mal-formada
+
+Expressao 1611
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+
+
+Expressao 1612
+Expressao mal-formada
+
+Expressao 1613
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+
+
+Expressao 1614
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Y=0)
+
+Expressao 1615
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1616
+Expressao mal-formada
+
+Expressao 1617
+Expressao mal-formada
+
+Expressao 1618
+Expressao mal-formada
+
+Expressao 1619
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=1, Y=1, Z=0)
+
+Expressao 1620
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 1621
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Z=0)
+
+Expressao 1622
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1623
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1624
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 1625
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1626
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1627
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=0)
+
+Expressao 1628
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+
+
+Expressao 1629
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0); (X=1)
+
+Expressao 1630
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 1631
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+(Z=1)
+
+Expressao 1632
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+
+
+Expressao 1633
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 1634
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(Y=0); (Y=1)
+
+Expressao 1635
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+
+
+Expressao 1636
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1637
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1638
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1639
+Expressao mal-formada
+
+Expressao 1640
+Expressao mal-formada
+
+Expressao 1641
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1642
+Expressao mal-formada
+
+Expressao 1643
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1644
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Z=0); (X=0, Z=1)
+
+Expressao 1645
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1646
+Expressao mal-formada
+
+Expressao 1647
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1648
+Expressao mal-formada
+
+Expressao 1649
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1650
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=0)
+
+Expressao 1651
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1652
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+
+
+Expressao 1653
+Expressao bem-formada
+Altura=4
+Sub-expressoes=6
+
+
+Expressao 1654
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1655
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Z=0)
+
+Expressao 1656
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+
+
+Expressao 1657
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 1658
+Expressao bem-formada
+Altura=4
+Sub-expressoes=7
+(X=0); (X=1)
+
+Expressao 1659
+Expressao mal-formada
+
+Expressao 1660
+Expressao bem-formada
+Altura=4
+Sub-expressoes=6
+(X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1661
+Expressao mal-formada
+
+Expressao 1662
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1663
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1664
+Expressao mal-formada
+
+Expressao 1665
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Z=1)
+
+Expressao 1666
+Expressao mal-formada
+
+Expressao 1667
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=1, Y=0)
+
+Expressao 1668
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1669
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+
+
+Expressao 1670
+Expressao mal-formada
+
+Expressao 1671
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+
+
+Expressao 1672
+Expressao mal-formada
+
+Expressao 1673
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(Y=0, Z=0)
+
+Expressao 1674
+Expressao mal-formada
+
+Expressao 1675
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Z=0)
+
+Expressao 1676
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1677
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0)
+
+Expressao 1678
+Expressao mal-formada
+
+Expressao 1679
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Z=0)
+
+Expressao 1680
+Expressao bem-formada
+Altura=5
+Sub-expressoes=26
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1681
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Y=1)
+
+Expressao 1682
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1683
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Y=0, Z=0); (Y=1, Z=0)
+
+Expressao 1684
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(X=1)
+
+Expressao 1685
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1686
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=1, Z=0)
+
+Expressao 1687
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1688
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1689
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 1690
+Expressao mal-formada
+
+Expressao 1691
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1692
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Z=1)
+
+Expressao 1693
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1694
+Expressao mal-formada
+
+Expressao 1695
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1696
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1697
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1698
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1)
+
+Expressao 1699
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+
+
+Expressao 1700
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+
+
+Expressao 1701
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=1)
+
+Expressao 1702
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1703
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 1704
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1705
+Expressao mal-formada
+
+Expressao 1706
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Z=1); (X=1, Z=1)
+
+Expressao 1707
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+
+
+Expressao 1708
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+
+
+Expressao 1709
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1710
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Y=0, Z=1)
+
+Expressao 1711
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=1, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1712
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1713
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1714
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(Y=0, Z=1)
+
+Expressao 1715
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+
+
+Expressao 1716
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1717
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1718
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1719
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 1720
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 1721
+Expressao mal-formada
+
+Expressao 1722
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Z=1)
+
+Expressao 1723
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1724
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1725
+Expressao mal-formada
+
+Expressao 1726
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 1727
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0, Y=0)
+
+Expressao 1728
+Expressao mal-formada
+
+Expressao 1729
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 1730
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 1731
+Expressao bem-formada
+Altura=4
+Sub-expressoes=6
+(X=1, Y=0); (X=1, Y=1)
+
+Expressao 1732
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1733
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+
+
+Expressao 1734
+Expressao mal-formada
+
+Expressao 1735
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=1, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1736
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1737
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1738
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 1739
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+
+
+Expressao 1740
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 1741
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1742
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+
+
+Expressao 1743
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+
+
+Expressao 1744
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1745
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1746
+Expressao mal-formada
+
+Expressao 1747
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+
+
+Expressao 1748
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1749
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(Z=1)
+
+Expressao 1750
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 1751
+Expressao mal-formada
+
+Expressao 1752
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+
+
+Expressao 1753
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 1754
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1755
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1756
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1757
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0)
+
+Expressao 1758
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1759
+Expressao bem-formada
+Altura=4
+Sub-expressoes=7
+(X=0, Y=0); (X=0, Y=1)
+
+Expressao 1760
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1761
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1762
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 1763
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=1); (X=1, Y=1)
+
+Expressao 1764
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(X=1)
+
+Expressao 1765
+Expressao mal-formada
+
+Expressao 1766
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 1767
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Z=1)
+
+Expressao 1768
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0)
+
+Expressao 1769
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(Z=0)
+
+Expressao 1770
+Expressao mal-formada
+
+Expressao 1771
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1772
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0, Z=0); (X=0, Z=1)
+
+Expressao 1773
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(X=0)
+
+Expressao 1774
+Expressao mal-formada
+
+Expressao 1775
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(Z=0)
+
+Expressao 1776
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=0)
+
+Expressao 1777
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0)
+
+Expressao 1778
+Expressao mal-formada
+
+Expressao 1779
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1780
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0, Z=1)
+
+Expressao 1781
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 1782
+Expressao mal-formada
+
+Expressao 1783
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=1, Y=0, Z=1)
+
+Expressao 1784
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+
+
+Expressao 1785
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+(X=1, Z=0)
+
+Expressao 1786
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=1); (X=1, Y=1)
+
+Expressao 1787
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+(Z=0)
+
+Expressao 1788
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+
+
+Expressao 1789
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0)
+
+Expressao 1790
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1791
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1792
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=1, Y=1)
+
+Expressao 1793
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0)
+
+Expressao 1794
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+(X=1, Y=0)
+
+Expressao 1795
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1796
+Expressao mal-formada
+
+Expressao 1797
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=1, Y=0); (X=1, Y=1)
+
+Expressao 1798
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1799
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 1800
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 1801
+Expressao bem-formada
+Altura=5
+Sub-expressoes=20
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1802
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Y=0); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1803
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1804
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Z=0); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 1805
+Expressao mal-formada
+
+Expressao 1806
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1807
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1808
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1)
+
+Expressao 1809
+Expressao mal-formada
+
+Expressao 1810
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1811
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 1812
+Expressao mal-formada
+
+Expressao 1813
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+
+
+Expressao 1814
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(Y=0)
+
+Expressao 1815
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(Y=0, Z=0)
+
+Expressao 1816
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(X=1)
+
+Expressao 1817
+Expressao mal-formada
+
+Expressao 1818
+Expressao mal-formada
+
+Expressao 1819
+Expressao mal-formada
+
+Expressao 1820
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+
+
+Expressao 1821
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 1822
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1823
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0, Y=0); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1824
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+
+
+Expressao 1825
+Expressao mal-formada
+
+Expressao 1826
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 1827
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+
+
+Expressao 1828
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Z=0)
+
+Expressao 1829
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1830
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1831
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=1, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 1832
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1833
+Expressao mal-formada
+
+Expressao 1834
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 1835
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 1836
+Expressao bem-formada
+Altura=4
+Sub-expressoes=6
+(Y=0)
+
+Expressao 1837
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+
+
+Expressao 1838
+Expressao bem-formada
+Altura=2
+Sub-expressoes=4
+
+
+Expressao 1839
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+
+
+Expressao 1840
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+
+
+Expressao 1841
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+
+
+Expressao 1842
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1843
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0); (X=1, Y=0)
+
+Expressao 1844
+Expressao mal-formada
+
+Expressao 1845
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1846
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+
+
+Expressao 1847
+Expressao bem-formada
+Altura=5
+Sub-expressoes=27
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1848
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1849
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 1850
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+
+
+Expressao 1851
+Expressao mal-formada
+
+Expressao 1852
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(X=0)
+
+Expressao 1853
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1854
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=1); (X=1, Y=1)
+
+Expressao 1855
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1856
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+
+
+Expressao 1857
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=1, Z=1)
+
+Expressao 1858
+Expressao bem-formada
+Altura=5
+Sub-expressoes=27
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1859
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+
+
+Expressao 1860
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1861
+Expressao mal-formada
+
+Expressao 1862
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1863
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 1864
+Expressao mal-formada
+
+Expressao 1865
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1866
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1867
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Y=0, Z=0); (Y=1, Z=0)
+
+Expressao 1868
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1869
+Expressao mal-formada
+
+Expressao 1870
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1871
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Z=1); (X=1, Z=1)
+
+Expressao 1872
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1873
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+
+
+Expressao 1874
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+
+
+Expressao 1875
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=1); (X=1, Y=0, Z=1)
+
+Expressao 1876
+Expressao bem-formada
+Altura=3
+Sub-expressoes=4
+
+
+Expressao 1877
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Y=1)
+
+Expressao 1878
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(X=1)
+
+Expressao 1879
+Expressao mal-formada
+
+Expressao 1880
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1881
+Expressao bem-formada
+Altura=5
+Sub-expressoes=16
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1882
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1883
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=1, Y=0, Z=1)
+
+Expressao 1884
+Expressao mal-formada
+
+Expressao 1885
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1886
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1887
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1888
+Expressao bem-formada
+Altura=4
+Sub-expressoes=6
+(X=0, Z=0); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 1889
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(Y=1)
+
+Expressao 1890
+Expressao mal-formada
+
+Expressao 1891
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+
+
+Expressao 1892
+Expressao mal-formada
+
+Expressao 1893
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1894
+Expressao mal-formada
+
+Expressao 1895
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 1896
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1897
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(X=1)
+
+Expressao 1898
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+
+
+Expressao 1899
+Expressao mal-formada
+
+Expressao 1900
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1901
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+(Y=1)
+
+Expressao 1902
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Y=0); (X=1, Y=0)
+
+Expressao 1903
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+
+
+Expressao 1904
+Expressao bem-formada
+Altura=3
+Sub-expressoes=5
+(Y=0, Z=0)
+
+Expressao 1905
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0)
+
+Expressao 1906
+Expressao mal-formada
+
+Expressao 1907
+Expressao bem-formada
+Altura=5
+Sub-expressoes=24
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1908
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1909
+Expressao bem-formada
+Altura=3
+Sub-expressoes=6
+(X=0); (X=1)
+
+Expressao 1910
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1911
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(Y=0, Z=1)
+
+Expressao 1912
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 1913
+Expressao bem-formada
+Altura=4
+Sub-expressoes=7
+(X=0, Z=1); (X=1, Z=1)
+
+Expressao 1914
+Expressao mal-formada
+
+Expressao 1915
+Expressao mal-formada
+
+Expressao 1916
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Z=1)
+
+Expressao 1917
+Expressao mal-formada
+
+Expressao 1918
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1919
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+
+
+Expressao 1920
+Expressao mal-formada
+
+Expressao 1921
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Y=1)
+
+Expressao 1922
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 1923
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=1, Y=0); (X=1, Y=1)
+
+Expressao 1924
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Y=1)
+
+Expressao 1925
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1926
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1927
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1)
+
+Expressao 1928
+Expressao mal-formada
+
+Expressao 1929
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(Y=0)
+
+Expressao 1930
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1931
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Y=1)
+
+Expressao 1932
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1)
+
+Expressao 1933
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Z=0); (X=1, Z=0)
+
+Expressao 1934
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=1, Y=0, Z=0)
+
+Expressao 1935
+Expressao mal-formada
+
+Expressao 1936
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1937
+Expressao mal-formada
+
+Expressao 1938
+Expressao mal-formada
+
+Expressao 1939
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Z=1); (X=1, Z=1)
+
+Expressao 1940
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(X=0, Z=0); (X=0, Z=1)
+
+Expressao 1941
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1942
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=1, Z=0)
+
+Expressao 1943
+Expressao bem-formada
+Altura=5
+Sub-expressoes=23
+
+
+Expressao 1944
+Expressao mal-formada
+
+Expressao 1945
+Expressao mal-formada
+
+Expressao 1946
+Expressao bem-formada
+Altura=5
+Sub-expressoes=6
+
+
+Expressao 1947
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 1948
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+
+
+Expressao 1949
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=1, Z=0); (X=1, Z=1)
+
+Expressao 1950
+Expressao bem-formada
+Altura=5
+Sub-expressoes=15
+(X=0, Y=1, Z=1)
+
+Expressao 1951
+Expressao mal-formada
+
+Expressao 1952
+Expressao mal-formada
+
+Expressao 1953
+Expressao bem-formada
+Altura=5
+Sub-expressoes=8
+(X=0, Y=1, Z=1); (X=1, Y=0, Z=1); (X=1, Y=1, Z=1)
+
+Expressao 1954
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(X=1, Y=0)
+
+Expressao 1955
+Expressao mal-formada
+
+Expressao 1956
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 1957
+Expressao mal-formada
+
+Expressao 1958
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1959
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1960
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1961
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+
+
+Expressao 1962
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1963
+Expressao bem-formada
+Altura=5
+Sub-expressoes=7
+(X=0, Y=0)
+
+Expressao 1964
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(Y=0, Z=0); (Y=0, Z=1)
+
+Expressao 1965
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1966
+Expressao bem-formada
+Altura=4
+Sub-expressoes=7
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0)
+
+Expressao 1967
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1968
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+
+
+Expressao 1969
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1970
+Expressao mal-formada
+
+Expressao 1971
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=1)
+
+Expressao 1972
+Expressao bem-formada
+Altura=1
+Sub-expressoes=2
+(Z=0)
+
+Expressao 1973
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1974
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(X=1)
+
+Expressao 1975
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Z=1)
+
+Expressao 1976
+Expressao mal-formada
+
+Expressao 1977
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=0, Z=1); (X=1, Y=1, Z=0); (X=1, Y=1, Z=1)
+
+Expressao 1978
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 1979
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+
+
+Expressao 1980
+Expressao bem-formada
+Altura=5
+Sub-expressoes=12
+(X=0, Y=0)
+
+Expressao 1981
+Expressao bem-formada
+Altura=5
+Sub-expressoes=11
+(Y=0, Z=1); (Y=1, Z=1)
+
+Expressao 1982
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+
+
+Expressao 1983
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+
+
+Expressao 1984
+Expressao bem-formada
+Altura=2
+Sub-expressoes=3
+(Y=1)
+
+Expressao 1985
+Expressao bem-formada
+Altura=1
+Sub-expressoes=3
+
+
+Expressao 1986
+Expressao bem-formada
+Altura=5
+Sub-expressoes=24
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1)
+
+Expressao 1987
+Expressao mal-formada
+
+Expressao 1988
+Expressao bem-formada
+Altura=5
+Sub-expressoes=14
+(X=0, Y=0, Z=0); (X=0, Y=1, Z=0); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 1989
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+
+
+Expressao 1990
+Expressao mal-formada
+
+Expressao 1991
+Expressao bem-formada
+Altura=5
+Sub-expressoes=19
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=1, Y=0, Z=1)
+
+Expressao 1992
+Expressao bem-formada
+Altura=5
+Sub-expressoes=18
+(X=0, Y=0); (X=0, Y=1); (X=1, Y=0); (X=1, Y=1)
+
+Expressao 1993
+Expressao mal-formada
+
+Expressao 1994
+Expressao bem-formada
+Altura=5
+Sub-expressoes=17
+(Y=0, Z=0); (Y=0, Z=1); (Y=1, Z=0); (Y=1, Z=1)
+
+Expressao 1995
+Expressao bem-formada
+Altura=5
+Sub-expressoes=9
+(X=0, Z=0); (X=1, Z=0); (X=1, Z=1)
+
+Expressao 1996
+Expressao mal-formada
+
+Expressao 1997
+Expressao bem-formada
+Altura=5
+Sub-expressoes=22
+(X=0, Y=0, Z=0); (X=0, Y=0, Z=1); (X=0, Y=1, Z=0); (X=0, Y=1, Z=1); (X=1, Y=0, Z=0); (X=1, Y=1, Z=0)
+
+Expressao 1998
+Expressao bem-formada
+Altura=0
+Sub-expressoes=1
+(Y=1)
+
+Expressao 1999
+Expressao bem-formada
+Altura=5
+Sub-expressoes=13
+(Y=0)
+
+Expressao 2000
+Expressao bem-formada
+Altura=5
+Sub-expressoes=10
+(X=0, Z=0); (X=0, Z=1); (X=1, Z=1)
