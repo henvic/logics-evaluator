@@ -39,28 +39,35 @@ public class Evaluator {
                 parents.push(current + "");
             } else if (current == ')') {
                 if (operators.size() > 0) {
-                    top = operators.peek().charAt(0);
+                    if (operators.size() > 0) operators.pop();
 
-                    // Check whether the element at the top is an operator or an atom
-                    if (tableSet.get(top) == null) {
-                        // If the top element is not an operator, then after removing
-                        // it we will have the next operator
-                        operators.pop();
+                    if (operators.size() > 0) {
+                        top = operators.peek().charAt(0);
 
-                        if (operators.size() > 0) {
-                            top = operators.peek().charAt(0);
+                        // Check whether the element at the top is an operator or an atom
+                        if (tableSet.get(top) != null) {
+                            // If the top element is not an operator, then after removing
+                            // it we will have the next operator
+                            operators.pop();
 
-                            if (tableSet.get(top) == null) return false;
+                            if (operators.size() > 0) {
+                                top = operators.peek().charAt(0);
 
-                            if (tableSet.get(top).arity == 2) {
-                                operators.pop();
+                                if (tableSet.get(top) == null) return false;
+
+                                if (tableSet.get(top).arity == 2) {
+                                    operators.pop();
+                                }
                             }
+                        } else {
+                            return false;
                         }
+                    } else {
+                        return false;
                     }
 
-                    if (parents.size() > 0) {
-                        parents.pop();
-                    }
+                    if (parents.size() > 0) parents.pop();
+
                 } else {
                     return false;
                 }
@@ -70,8 +77,7 @@ public class Evaluator {
             }
         }
 
-        if (parents.size() == operators.size()) return true;
-        return false;
+        return true;
     }
 
     public static void main(String[] args) {
