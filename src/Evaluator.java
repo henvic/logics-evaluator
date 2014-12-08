@@ -21,6 +21,44 @@ class Table {
 }
 
 public class Evaluator {
+    public static void getTruthyValuesFor(String expr, Arquivo io, HashMap<Character, Table> tableSet) {
+        int arity;
+        Table currentTable;
+
+        for (int k = 0; k < expr.length(); k++) {
+            currentTable = tableSet.get(expr.charAt(k));
+
+            if (currentTable != null) {
+                arity = currentTable.arity;
+
+                if (arity == 1) {
+                    for (int i = 0; i < currentTable.matrix.length; i++) {
+                        if (currentTable.matrix[i][arity + 1] == 1) {
+
+                        }
+                    }
+                } else {
+                }
+            } else {
+                if (expr.charAt(k) != '(' && expr.charAt(k) != ')') {
+                    // Is a single atom!
+                    io.println("(" + Character.toUpperCase(expr.charAt(k)) + "=1)");
+                }
+            }
+        }
+    }
+
+    public static int getSubExpressionsCount(String expr) {
+        int answer = 2;
+
+        return answer;
+    }
+
+    public static int getHeight(String expr) {
+        int answer = 2;
+
+        return answer;
+    }
 
     /**
      * Returns true if the expression is well-formed. Returns false otherwise.
@@ -28,8 +66,6 @@ public class Evaluator {
     public static boolean isWFF(String expr, HashMap<Character, Table> tableSet) {
         Stack<String> parents = new Stack<String>();
         Stack<String> operators = new Stack<String>();
-
-        int times;
         char current, top;
 
         for (int i = 0; i < expr.length(); i++) {
@@ -85,7 +121,6 @@ public class Evaluator {
 
         int N, arity, expressions;
         char operator;
-        String[] exprDB;
         HashMap<Character, Table> tableSet = new HashMap<Character, Table>();
         Table table;
 
@@ -110,25 +145,22 @@ public class Evaluator {
 
         expressions = io.readInt();
 
-        exprDB = new String[expressions];
-
-        for (int i = 0; i < exprDB.length; i++) {
+        for (int i = 0; i < expressions; i++) {
             String expr = io.readString();
 
-            System.out.println("Expressao " + (i + 1));
+            io.println("Expressao " + (i + 1));
 
             if (isWFF(expr, tableSet)) {
-                System.out.println("Expressao bem-formada");
-                // @todo height
-                // @todo amount of sub expressions
-                // @todo variable truth-values
+                io.println("Expressao bem-formada");
+                io.println("Altura=" + getHeight(expr));
+                io.println("Sub-expressoes=" + getSubExpressionsCount(expr));
+
+                getTruthyValuesFor(expr, io, tableSet);
             } else {
-                System.out.println("Expressao mal-formada");
+                io.println("Expressao mal-formada");
             }
 
-            System.out.println();
-
-            exprDB[i] = expr;
+            io.println();
         }
     }
 
