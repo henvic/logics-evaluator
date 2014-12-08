@@ -60,10 +60,11 @@ public class Evaluator {
         exprDB = new String[expressions];
 
         for (int i = 0; i < exprDB.length; i++) {
-            exprDB[i] = io.readString();
+            String expr = io.readString();
+
+            System.out.println("Expression = " + expr);
+            exprDB[i] = expr;
         }
-
-
     }
 
 }
