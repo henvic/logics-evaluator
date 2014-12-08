@@ -59,6 +59,19 @@ public class Evaluator {
         for (int i = 0; i < exprDB.length; i++) {
             String expr = io.readString();
 
+            System.out.println("Expressao " + (i + 1));
+
+            if (isWFF(expr)) {
+                System.out.println("Expressao bem-formada");
+                // @todo height
+                // @todo amount of sub expressions
+                // @todo variable truth-values
+            } else {
+                System.out.println("Expressao mal-formada");
+            }
+
+            System.out.println();
+
             exprDB[i] = expr;
         }
     }
