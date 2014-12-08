@@ -4,6 +4,7 @@
  */
 
 import java.util.HashMap;
+import java.util.Stack;
 
 class Table {
     int arity;
@@ -13,6 +14,10 @@ class Table {
         this.arity = arity;
         this.matrix = new int[(int) Math.pow(2, arity)][arity+1];
     }
+
+    public String toString() {
+        return this.arity + "";
+    }
 }
 
 public class Evaluator {
@@ -20,8 +25,53 @@ public class Evaluator {
     /**
      * Returns true if the expression is well-formed. Returns false otherwise.
      */
-    public static boolean isWFF(String expr) {
-        return true;
+    public static boolean isWFF(String expr, HashMap<Character, Table> tableSet) {
+        Stack<String> parents = new Stack<String>();
+        Stack<String> operators = new Stack<String>();
+
+        int times;
+        char current, top;
+
+        for (int i = 0; i < expr.length(); i++) {
+            current = expr.charAt(i);
+
+            if (current == '(') {
+                parents.push(current + "");
+            } else if (current == ')') {
+                if (operators.size() > 0) {
+                    top = operators.peek().charAt(0);
+
+                    // Check whether the element at the top is an operator or an atom
+                    if (tableSet.get(top) == null) {
+                        // If the top element is not an operator, then after removing
+                        // it we will have the next operator
+                        operators.pop();
+
+                        if (operators.size() > 0) {
+                            top = operators.peek().charAt(0);
+
+                            if (tableSet.get(top) == null) return false;
+
+                            if (tableSet.get(top).arity == 2) {
+                                operators.pop();
+                            }
+                        }
+                    }
+
+                    if (parents.size() > 0) {
+                        parents.pop();
+                    }
+                } else {
+                    return false;
+                }
+
+            } else {
+                operators.push(current + "");
+            }
+        }
+
+        if (parents.size() == operators.size()) return true;
+        return false;
     }
 
     public static void main(String[] args) {
@@ -61,7 +111,7 @@ public class Evaluator {
 
             System.out.println("Expressao " + (i + 1));
 
-            if (isWFF(expr)) {
+            if (isWFF(expr, tableSet)) {
                 System.out.println("Expressao bem-formada");
                 // @todo height
                 // @todo amount of sub expressions
