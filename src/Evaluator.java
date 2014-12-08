@@ -21,8 +21,9 @@ class Table {
 }
 
 public class Evaluator {
-    public static void getTruthyValuesFor(String expr, Arquivo io, HashMap<Character, Table> tableSet) {
+    public static void getTruthValuesFor(String expr, Arquivo io, HashMap<Character, Table> tableSet) {
         int arity;
+        char atom1, atom2;
         Table currentTable;
 
         for (int k = 0; k < expr.length(); k++) {
@@ -31,13 +32,23 @@ public class Evaluator {
             if (currentTable != null) {
                 arity = currentTable.arity;
 
+                atom1 = expr.charAt(k+1);
+
                 if (arity == 1) {
+                    for (int i = 0; i < currentTable.matrix.length; i++) {
+                        if (currentTable.matrix[i][arity + 1] == 1) {
+                        }
+
+                    }
+                } else { // Arity is 2
+                    atom2 = expr.charAt(k-1);
+
                     for (int i = 0; i < currentTable.matrix.length; i++) {
                         if (currentTable.matrix[i][arity + 1] == 1) {
 
                         }
                     }
-                } else {
+
                 }
             } else {
                 if (expr.charAt(k) != '(' && expr.charAt(k) != ')') {
@@ -155,7 +166,7 @@ public class Evaluator {
                 io.println("Altura=" + getHeight(expr));
                 io.println("Sub-expressoes=" + getSubExpressionsCount(expr));
 
-                getTruthyValuesFor(expr, io, tableSet);
+                getTruthValuesFor(expr, io, tableSet);
             } else {
                 io.println("Expressao mal-formada");
             }
