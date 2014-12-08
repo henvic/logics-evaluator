@@ -21,6 +21,23 @@ class Table {
 }
 
 public class Evaluator {
+
+    public static char getTopOperator(String str, HashMap<Character, Table> tableSet) {
+        char answer = str.charAt(0);
+
+        for (int i = 0, j = str.length() - 1; i < str.length() && i < j; i++, j--) {
+            if (tableSet.get(str.charAt(i)) != null) {
+                answer = str.charAt(i);
+                break;
+            } else if (tableSet.get(str.charAt(j)) != null) {
+                answer = str.charAt(i);
+                break;
+            }
+        }
+
+        return answer;
+    }
+
     public static void getTruthValuesFor(String expr, Arquivo io, HashMap<Character, Table> tableSet) {
         int arity;
         char atom1, atom2;
@@ -75,7 +92,7 @@ public class Evaluator {
      * Returns true if the expression is well-formed. Returns false otherwise.
      */
     public static boolean isWFF(String expr, HashMap<Character, Table> tableSet) {
-        Stack<String> parents = new Stack<String>();
+        Stack<String> brackets = new Stack<String>();
         Stack<String> operators = new Stack<String>();
         char current, top;
 
@@ -83,29 +100,31 @@ public class Evaluator {
             current = expr.charAt(i);
 
             if (current == '(') {
-                parents.push(current + "");
+                brackets.push(current + "");
             } else if (current == ')') {
                 if (operators.size() > 0) {
+                    // This guy must always be removed because it will always be a
+                    // parameter whether the operator is unary or binary
                     if (operators.size() > 0) operators.pop();
 
                     if (operators.size() > 0) {
+                        // If the top element is not an operator, then after removing
+                        // it we will have the next operator
                         top = operators.peek().charAt(0);
 
                         // Check whether the element at the top is an operator or an atom
                         if (tableSet.get(top) != null) {
-                            // If the top element is not an operator, then after removing
-                            // it we will have the next operator
-                            operators.pop();
+
+                            if (tableSet.get(top).arity == 2) {
+                                operators.pop();
+                            }
 
                             if (operators.size() > 0) {
-                                top = operators.peek().charAt(0);
-
-                                if (tableSet.get(top) == null) return false;
-
-                                if (tableSet.get(top).arity == 2) {
-                                    operators.pop();
-                                }
+                                operators.pop();
+                            } else {
+                                return false;
                             }
+
                         } else {
                             return false;
                         }
@@ -113,7 +132,7 @@ public class Evaluator {
                         return false;
                     }
 
-                    if (parents.size() > 0) parents.pop();
+                    if (brackets.size() > 0) brackets.pop();
 
                 } else {
                     return false;
@@ -159,6 +178,11 @@ public class Evaluator {
         for (int i = 0; i < expressions; i++) {
             String expr = io.readString();
 
+            if (i == 1) {
+                System.out.println(expr);
+                System.out.println(getTopOperator(expr, tableSet));
+            }
+
             io.println("Expressao " + (i + 1));
 
             if (isWFF(expr, tableSet)) {
@@ -166,7 +190,7 @@ public class Evaluator {
                 io.println("Altura=" + getHeight(expr));
                 io.println("Sub-expressoes=" + getSubExpressionsCount(expr));
 
-                getTruthValuesFor(expr, io, tableSet);
+//                getTruthValuesFor(expr, io, tableSet);
             } else {
                 io.println("Expressao mal-formada");
             }
