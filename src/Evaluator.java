@@ -34,14 +34,10 @@ public class Evaluator {
         Table table;
 
         N = io.readInt();
-        System.out.println("Operators = " + N + "\n");
 
         while (N > 0) {
             operator = io.readString().charAt(0);
             arity = io.readInt();
-
-            System.out.println("Operator = " + operator);
-            System.out.println("Arity = " + arity);
 
             table = new Table(arity);
 
@@ -49,16 +45,10 @@ public class Evaluator {
 
             for (int i = 0; i < (int) Math.pow(2, arity); i++) {
                 for (int j = 0; j < (arity + 1); j++) {
-                    int num = io.readInt();
-                    System.out.print(num + " ");
-
-                    table.matrix[i][j] = num;
+                    table.matrix[i][j] = io.readInt();
                 }
-
-                System.out.println();
             }
 
-            System.out.println();
             N--;
         }
 
@@ -69,7 +59,6 @@ public class Evaluator {
         for (int i = 0; i < exprDB.length; i++) {
             String expr = io.readString();
 
-            System.out.println("Expression = " + expr);
             exprDB[i] = expr;
         }
     }
