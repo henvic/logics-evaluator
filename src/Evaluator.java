@@ -6,6 +6,9 @@
 import java.util.HashMap;
 import java.util.Stack;
 
+class MalformedExpression extends Exception {
+}
+
 class Table {
     int arity;
     int[][] matrix;
