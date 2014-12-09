@@ -44,10 +44,9 @@ public class Evaluator {
         return answer;
     }
 
-    public static String getExpressionTruthValues(String expr, HashMap<Character, Table> tableSet) {
+    public static void getTruthValuesFor(String expr, Arquivo io, HashMap<Character, Table> tableSet) {
         int arity;
         char atom1, atom2;
-        String res = "";
         Table currentTable;
 
         for (int k = 0; k < expr.length(); k++) {
@@ -77,12 +76,10 @@ public class Evaluator {
             } else {
                 if (expr.charAt(k) != '(' && expr.charAt(k) != ')') {
                     // Is a single atom!
-                    res += ("(" + Character.toUpperCase(expr.charAt(k)) + "=1)") + "\n";
+                    io.println("(" + Character.toUpperCase(expr.charAt(k)) + "=1)");
                 }
             }
         }
-
-        return res;
     }
 
     public static int getSubExpressionsCount(String expr) {
@@ -97,7 +94,10 @@ public class Evaluator {
         return answer;
     }
 
-    public void wff(String expr, HashMap<Character, Table> tableSet) throws MalformedExpression {
+    /**
+     * Returns true if the expression is well-formed. Returns false otherwise.
+     */
+    public static boolean isWFF(String expr, HashMap<Character, Table> tableSet) {
         Stack<String> brackets = new Stack<String>();
         Stack<String> operators = new Stack<String>();
         char current, top;
@@ -107,52 +107,49 @@ public class Evaluator {
 
             if (current == '(') {
                 brackets.push(current + "");
-            } else if (current != ')') {
+            } else if (current == ')') {
+                if (operators.size() > 0) {
+                    // This guy must always be removed because it will always be a
+                    // parameter whether the operator is unary or binary
+                    if (operators.size() > 0) operators.pop();
+
+                    if (operators.size() > 0) {
+                        // If the top element is not an operator, then after removing
+                        // it we will have the next operator
+                        top = operators.peek().charAt(0);
+
+                        // Check whether the element at the top is an operator or an atom
+                        if (tableSet.get(top) != null) {
+
+                            if (tableSet.get(top).arity == 2) {
+                                operators.pop();
+                            }
+
+                            if (operators.size() > 0) {
+                                operators.pop();
+                            } else {
+                                return false;
+                            }
+
+                        } else {
+                            return false;
+                        }
+                    } else {
+                        return false;
+                    }
+
+                    if (brackets.size() > 0) brackets.pop();
+
+                } else {
+                    return false;
+                }
+
+            } else {
                 operators.push(current + "");
-                continue;
-            }
-
-            if (operators.size() == 0) {
-                throw new MalformedExpression();
-            }
-
-            // This must always be removed because it will always be a
-            // parameter whether the operator is unary or binary
-            if (operators.size() > 0) {
-                operators.pop();
-            }
-
-            if (operators.size() == 0) {
-                throw new MalformedExpression();
-            }
-
-            // If the top element is not an operator, then after removing
-            // it we will have the next operator
-            top = operators.peek().charAt(0);
-
-            // Check whether the element at the top is an operator or an atom
-            if (tableSet.get(top) == null) {
-                throw new MalformedExpression();
-            }
-
-            if (tableSet.get(top).arity == 2) {
-                operators.pop();
-            }
-
-            if (operators.size() == 0) {
-                throw new MalformedExpression();
-            }
-
-            operators.pop();
-
-            if (brackets.size() > 0) {
-                brackets.pop();
             }
         }
 
-        io.println("Expressao bem-formada");
-        io.println("Altura=" + "foo");
-//        io.println("Sub-expressoes=" + getExpressionTruthValues(expr, tableSet) + "\n");
+        return true;
     }
 
     public Table getOperatorTruthTable(int arity) {
@@ -182,22 +179,31 @@ public class Evaluator {
         }
     }
 
-    private void printMalformedExpression() {
-        io.println("Expressao mal-formada");
-    }
-
     private void getExpression(int counter) {
         String expr = io.readString();
 
-        io.println("Expressao " + (counter + 1) + "\n");
+        io.println("Expressao " + (counter + 1));
 
-        try {
-            wff(expr, tableSet);
-        } catch(MalformedExpression ignore) {
-            printMalformedExpression();
-        } finally {
-            io.println();
+        if (!isWFF(expr, tableSet)) {
+            io.println("Expressao mal-formada");
+
+            //verifica se está no alfabeto todos os elementos
+            //
+            //verificar parênteses
+            //
         }
+
+        if (isWFF(expr, tableSet)) {
+            io.println("Expressao bem-formada");
+            io.println("Altura=" + getHeight(expr));
+            io.println("Sub-expressoes=" + getSubExpressionsCount(expr));
+
+//                getTruthValuesFor(expr, io, tableSet);
+        } else {
+            io.println("Expressao mal-formada");
+        }
+
+        io.println();
     }
 
     private void getExpressions() {
