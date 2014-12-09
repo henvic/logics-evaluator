@@ -21,6 +21,9 @@ class Table {
 }
 
 public class Evaluator {
+    private HashMap<Character, Table> tableSet;
+
+    private Arquivo io;
 
     public static char getTopOperator(String str, HashMap<Character, Table> tableSet) {
         char answer = str.charAt(0);
@@ -146,57 +149,80 @@ public class Evaluator {
         return true;
     }
 
-    public static void main(String[] args) {
-        Arquivo io = new Arquivo("input.txt", "output.txt");
+    public Table getOperatorTruthTable(int arity) {
+        Table table = new Table(arity);
 
-        int N, arity, expressions;
+        for (int i = 0; i < (int) Math.pow(2, arity); i++) {
+            for (int j = 0; j < (arity + 1); j++) {
+                table.matrix[i][j] = io.readInt();
+            }
+        }
+
+        return table;
+    }
+
+    private void getOperators() {
+        int arity;
+        int operators;
         char operator;
-        HashMap<Character, Table> tableSet = new HashMap<Character, Table>();
-        Table table;
 
-        N = io.readInt();
+        operators = io.readInt();
 
-        while (N > 0) {
+        for (int current = 0; current < operators; current += 1) {
             operator = io.readString().charAt(0);
             arity = io.readInt();
 
-            table = new Table(arity);
+            tableSet.put(operator, getOperatorTruthTable(arity));
+        }
+    }
 
-            tableSet.put(operator, table);
+    private void getExpression(int counter) {
+        String expr = io.readString();
 
-            for (int i = 0; i < (int) Math.pow(2, arity); i++) {
-                for (int j = 0; j < (arity + 1); j++) {
-                    table.matrix[i][j] = io.readInt();
-                }
-            }
+        io.println("Expressao " + (counter + 1));
 
-            N--;
+        if (!isWFF(expr, tableSet)) {
+            io.println("Expressao mal-formada");
+
+            //verifica se está no alfabeto todos os elementos
+            //
+            //verificar parênteses
+            //
         }
 
-        expressions = io.readInt();
-
-        for (int i = 0; i < expressions; i++) {
-            String expr = io.readString();
-
-            if (i == 1) {
-                System.out.println(expr);
-                System.out.println(getTopOperator(expr, tableSet));
-            }
-
-            io.println("Expressao " + (i + 1));
-
-            if (isWFF(expr, tableSet)) {
-                io.println("Expressao bem-formada");
-                io.println("Altura=" + getHeight(expr));
-                io.println("Sub-expressoes=" + getSubExpressionsCount(expr));
+        if (isWFF(expr, tableSet)) {
+            io.println("Expressao bem-formada");
+            io.println("Altura=" + getHeight(expr));
+            io.println("Sub-expressoes=" + getSubExpressionsCount(expr));
 
 //                getTruthValuesFor(expr, io, tableSet);
-            } else {
-                io.println("Expressao mal-formada");
-            }
-
-            io.println();
+        } else {
+            io.println("Expressao mal-formada");
         }
+
+        io.println();
+    }
+
+    private void getExpressions() {
+        int expressions = io.readInt();
+
+        for (int current = 0; current < expressions; current += 1) {
+            getExpression(current);
+        }
+    }
+
+    public void run() {
+        tableSet = new HashMap<>();
+        io = new Arquivo("input.txt", "output.txt");
+
+        getOperators();
+        getExpressions();
+    }
+
+    public static void main(String[] args) {
+        Evaluator evaluator = new Evaluator();
+
+        evaluator.run();
     }
 
 }
