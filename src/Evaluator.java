@@ -3,8 +3,25 @@
  * @author Rodrigo Alves
  */
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Stack;
+
+class Answer {
+    boolean verdict;
+    int subExpressions;
+    int height;
+
+    public Answer(boolean verdict) {
+        this.verdict = verdict;
+        this.subExpressions = 0;
+        this.height = 0;
+    }
+
+    public boolean isTrue() {
+        return this.verdict == true;
+    }
+}
 
 class Table {
     int arity;
@@ -76,24 +93,15 @@ public class Evaluator {
         }
     }
 
-    public static int getSubExpressionsCount(String expr) {
-        int answer = 2;
+    public static Answer isWFF(String expr, HashMap<Character, Table> tableSet) {
+        Answer answer = new Answer(true);
 
-        return answer;
-    }
-
-    public static int getHeight(String expr) {
-        int answer = 2;
-
-        return answer;
-    }
-
-    /**
-     * Returns true if the expression is well-formed. Returns false otherwise.
-     */
-    public static boolean isWFF(String expr, HashMap<Character, Table> tableSet) {
         Stack<String> brackets = new Stack<String>();
         Stack<String> operators = new Stack<String>();
+
+        String subExpr;
+        ArrayList<String> subExpressions = new ArrayList<String>();
+
         char current, top;
 
         for (int i = 0; i < expr.length(); i++) {
@@ -111,31 +119,39 @@ public class Evaluator {
                         // If the top element is not an operator, then after removing
                         // it we will have the next operator
                         top = operators.peek().charAt(0);
+                        subExpr = top + "";
 
                         // Check whether the element at the top is an operator or an atom
                         if (tableSet.get(top) != null) {
 
                             if (tableSet.get(top).arity == 2) {
                                 operators.pop();
+                                subExpr += top;
                             }
 
                             if (operators.size() > 0) {
                                 operators.pop();
                             } else {
-                                return false;
+                                answer.verdict = false;
+                                break;
                             }
 
                         } else {
-                            return false;
+                            answer.verdict = false;
+                            break;
                         }
+
+                        subExpressions.add(subExpr);
                     } else {
-                        return false;
+                        answer.verdict = false;
+                        break;
                     }
 
                     if (brackets.size() > 0) brackets.pop();
 
                 } else {
-                    return false;
+                    answer.verdict = false;
+                    break;
                 }
 
             } else {
@@ -143,7 +159,7 @@ public class Evaluator {
             }
         }
 
-        return true;
+        return answer;
     }
 
     public static void main(String[] args) {
@@ -153,6 +169,7 @@ public class Evaluator {
         char operator;
         HashMap<Character, Table> tableSet = new HashMap<Character, Table>();
         Table table;
+        Answer answer;
 
         N = io.readInt();
 
@@ -178,19 +195,16 @@ public class Evaluator {
         for (int i = 0; i < expressions; i++) {
             String expr = io.readString();
 
-            if (i == 1) {
-                System.out.println(expr);
-                System.out.println(getTopOperator(expr, tableSet));
-            }
-
             io.println("Expressao " + (i + 1));
 
-            if (isWFF(expr, tableSet)) {
-                io.println("Expressao bem-formada");
-                io.println("Altura=" + getHeight(expr));
-                io.println("Sub-expressoes=" + getSubExpressionsCount(expr));
+            answer = isWFF(expr, tableSet);
 
-//                getTruthValuesFor(expr, io, tableSet);
+            if (answer.isTrue()) {
+                io.println("Expressao bem-formada");
+                io.println("Altura=" + answer.height);
+                io.println("Sub-expressoes=" + answer.subExpressions);
+
+                // getTruthValuesFor(expr, io, tableSet);
             } else {
                 io.println("Expressao mal-formada");
             }
